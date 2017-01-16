@@ -7,4 +7,5 @@
 4. Open developer console to see output
 
 ## Questions
-* Duplicate Characters in a String
+* Duplicate Characters in a String (dupeChars.js)
+* Strings are anagrams? (anagrams.js)
