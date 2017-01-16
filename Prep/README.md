@@ -9,3 +9,4 @@
 ## Questions
 * Duplicate Characters in a String (dupeChars.js)
 * Strings are anagrams? (anagrams.js)
+* How to print first non repeated character from String? (uniqueChar.js)
