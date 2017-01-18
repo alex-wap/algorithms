@@ -1,4 +1,4 @@
-// anagrams.js
+// reverse.js
 
 /*
 write a program to reverse a string
